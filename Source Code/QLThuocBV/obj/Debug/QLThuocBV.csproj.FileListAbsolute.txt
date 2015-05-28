@@ -1,0 +1,17 @@
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\bin\Debug\QLThuocBV.exe.config
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\bin\Debug\QLThuocBV.exe
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\bin\Debug\QLThuocBV.pdb
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\bin\Debug\Sqlhelper.dll
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\obj\Debug\QLThuocBV.csprojResolveAssemblyReference.cache
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\obj\Debug\QLThuocBV.Form1.resources
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\obj\Debug\QLThuocBV.frmAddItem.resources
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\obj\Debug\QLThuocBV.frmBanThuoc.resources
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\obj\Debug\QLThuocBV.frmHoaDon.resources
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\obj\Debug\QLThuocBV.frmKhachHang.resources
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\obj\Debug\QLThuocBV.frmNhaCC.resources
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\obj\Debug\QLThuocBV.MainApp.resources
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\obj\Debug\QLThuocBV.Properties.Resources.resources
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\obj\Debug\QLThuocBV.csproj.GenerateResource.Cache
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\obj\Debug\QLThuocBV.exe.licenses
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\obj\Debug\QLThuocBV.exe
+E:\Users\HoangLong\Desktop\LTQL_NHOM40_LAN2\LTQL_NHOM40_LAN2\Source Code\QLThuocBV\obj\Debug\QLThuocBV.pdb
